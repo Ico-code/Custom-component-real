@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "portfolio-cae08": {
+      "hosting": {
+        "custom-component": [
+          "portfolio-cae08"
+        ]
+      }
+    }
+  }
+}
